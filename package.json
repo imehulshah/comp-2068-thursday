@@ -1,0 +1,23 @@
+{
+  "name": "comp-2068-thursday",
+  "version": "1.0.0",
+  "description": "A personal blogging",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulshah1610/comp-2068-thursday.git"
+  },
+  "author": "Mehul Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehulshah1610/comp-2068-thursday/issues"
+  },
+  "homepage": "https://github.com/mehulshah1610/comp-2068-thursday#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
